@@ -1,0 +1,54 @@
+{
+  "headers": {
+    "contents": "手机全场12期免息,领券减100"
+  },
+  "na": [
+    {
+      "img": "../../../static/img/nav1.png",
+      "title": "新人红包"
+    },
+    {
+      "img": "../../../static/img/nav2.png",
+      "title": "旅游出行"
+    },
+    {
+      "img": "../../../static/img/nav3.png",
+      "title": "乐花借钱"
+    },
+    {
+      "img": "../../../static/img/nav4.png",
+      "title": "乐还款"
+    },
+    {
+      "img": "../../../static/img/nav5.png",
+      "title": "娱乐充值"
+    }
+  ],
+  "banner": {
+    "bannerBig": "../../../static/img/big_banner.gif",
+    "bannerSmall": [
+      "../../../static/img/bann1.jpg",
+      "../../../static/img/bann2.jpg",
+      "../../../static/img/bann3.jpg",
+      "../../../static/img/banns1.jpg",
+      "../../../static/img/banns2.jpg",
+      "../../../static/img/banns3.jpg",
+      "../../../static/img/banns4.jpg",
+      "../../../static/img/banns5.jpg",
+      "../../../static/img/banns6.jpg"
+    ],
+    "bannerThree": [
+      "../../../static/img/bann_t1.png",
+      "../../../static/img/bann_t2.png",
+      "../../../static/img/bann_t3.png",
+      "../../../static/img/bann_t4.png"
+    ]
+  },
+  "indexswiper": [
+    "../../../static/img/indexs1.jpg",
+    "../../../static/img/indexs2.jpg",
+    "../../../static/img/indexs3.jpg",
+    "../../../static/img/indexs4.jpg",
+    "../../../static/img/indexs5.jpg"
+  ]
+}

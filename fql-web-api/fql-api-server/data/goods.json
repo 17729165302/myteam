@@ -1,0 +1,163 @@
+{
+  	"小米" : [
+  		{
+	      	"id" : "xm10000001",
+	      	"type":"手机",
+	      	"name"	: "小米9",
+	      	"title" : "小米9 新品三摄  骁龙855 全网通4G 双卡双待 水滴全面屏拍照游戏智能手机",
+ 			"indeximg" : "../../../static/img/m9-1.jpg",
+ 			"topimg" : "../../../static/img/gl_img1_a.png",
+	      	"banben" : [
+	      		{
+	      			"color" : "深空灰",
+	      			"neicun" : "6G+128G",
+	      			"price" : 3599,
+	      			"before_price" : 3899,
+	      			"fenqi_pirce" : 124.77,
+	      			"huodongimg" :  "../../../static/img/428_428_1509691658653.jpg",
+	      			"imgs" : [
+	      				"../../../static/img/428_428_1509691658653.jpg",
+	      				"../../../static/img/428_428_1509691658653.jpg",
+	      				"../../../static/img/428_428_1509691658653.jpg"
+	      			]
+	      		},
+	      		{
+	      			"color" : "全息幻彩紫",
+	      			"neicun" : "6G+128G",
+	      			"price" : 3699,
+	      			"before_price" : "",
+                    "fenqi_pirce" : 128.23,
+	      			"huodongimg" :  "../../../static/img/428_428_1509691658653.jpg",
+	      			"imgs" : [
+	      				"../../../static/img/428_428_1509691658653.jpg",
+	      				"../../../static/img/428_428_1509691658653.jpg",
+	      				"../../../static/img/428_428_1509691658653.jpg"
+	      			]
+	      		},
+	      		{
+	      			"color" : "全息幻彩蓝",
+	      			"neicun" : "8G+128G",
+	      			"price" : 3999,
+	      			"before_price" : 4199,
+                    "fenqi_pirce" : 138.63,
+	      			"huodongimg" :  "../../../static/img/428_428_1509691658653.jpg",
+	      			"imgs" : [
+	      				"../../../static/img/428_428_1509691658653.jpg",
+	      				"../../../static/img/428_428_1509691658653.jpg",
+	      				"../../../static/img/428_428_1509691658653.jpg"
+	      			]
+	      		}
+	      	],
+	      	"pingjia" : [
+	        	{
+		         	"user" : "华子",
+		          	"starNum" : 5,
+		          	"img" : "../../../static/img/53c16fd787191e6acc752c95.jpg",
+		          	"text" : "国货精品，华为品质，值得信赖！"
+		        },
+		        {
+		         	"user" : "139911***",
+		          	"starNum" : 5,
+		         	"img" : "../../../static/img/245ed964ebded70fbf3f246a.jpg",
+		        	 "text" : "宝贝收到，使用流畅，速度快。推荐入手，支持华为。"
+		        },
+		        {
+		          "user" : "B***N",
+		          "starNum" : 5,
+		          "img" : "../../../static/img/5aff15b988ca57e59b218e84.jpg",
+		          "text" : "前天晚上下单隔一天下午收到顺丰就是速度 期待好用"
+		        }
+	    	],
+	    	"haoping": "98%",
+	    	"jieshao": "索尼4800万超广角微距三摄，骁龙855旗舰处理器，前置光学指纹识别！",
+	      	"bannerone" :"乐卡分期，最高支持36期，每月仅138.63元",
+	      	"bannertwo" :"iPhone XS系列领券立减400元，低至7388元起",
+	      	"jieshaoimg" : [
+	        	"../../../static/img/5aff15b988ca57e59b218e84.jpg",
+	        	"../../../static/img/5aff15b988ca57e59b218e84.jpg",
+	        	"../../../static/img/5aff15b988ca57e59b218e84.jpg"
+	      	]
+  		},
+        {
+        "id" : "xm10000002",
+        "type":"手机",
+        "name"	: "小米8",
+        "title" : "小米8 新品三摄  骁龙845 全网通4G 双卡双待 水滴全面屏拍照游戏智能手机",
+        "indeximg" : "../../../static/img/gl_img1.jpg",
+        "topimg" : "../../../static/img/gl_img1_a.png",
+        "banben" : [
+          {
+            "color" : "深空灰",
+            "neicun" : "6G+128G",
+            "price" : 3699,
+            "before_price" : 3899,
+            "fenqi_pirce" : 138.63,
+            "huodongimg" :  "../../../static/img/428_428_1509691658653.jpg",
+            "imgs" : [
+              "../../../static/img/428_428_1509691658653.jpg",
+              "../../../static/img/428_428_1509691658653.jpg",
+              "../../../static/img/428_428_1509691658653.jpg"
+            ]
+          },
+          {
+            "color" : "全息幻彩紫",
+            "neicun" : "6G+128G",
+            "price" : 3699,
+            "before_price" : "",
+            "fenqi_pirce" : 138.63,
+            "huodongimg" :  "../../../static/img/428_428_1509691658653.jpg",
+            "imgs" : [
+              "../../../static/img/428_428_1509691658653.jpg",
+              "../../../static/img/428_428_1509691658653.jpg",
+              "../../../static/img/428_428_1509691658653.jpg"
+            ]
+          },
+          {
+            "color" : "全息幻彩蓝",
+            "neicun" : "8G+128G",
+            "price" : 3999,
+            "before_price" : 4399,
+            "fenqi_pirce" : 138.63,
+            "huodongimg" :  "../../../static/img/428_428_1509691658653.jpg",
+            "imgs" : [
+              "../../../static/img/428_428_1509691658653.jpg",
+              "../../../static/img/428_428_1509691658653.jpg",
+              "../../../static/img/428_428_1509691658653.jpg"
+            ]
+          }
+        ],
+        "pingjia" : [
+          {
+            "user" : "华子",
+            "starNum" : 5,
+            "img" : "../../../static/img/53c16fd787191e6acc752c95.jpg",
+            "text" : "国货精品，华为品质，值得信赖！"
+          },
+          {
+            "user" : "139911***",
+            "starNum" : 5,
+            "img" : "../../../static/img/245ed964ebded70fbf3f246a.jpg",
+            "text" : "宝贝收到，使用流畅，速度快。推荐入手，支持华为。"
+          },
+          {
+            "user" : "B***N",
+            "starNum" : 5,
+            "img" : "../../../static/img/5aff15b988ca57e59b218e84.jpg",
+            "text" : "前天晚上下单隔一天下午收到顺丰就是速度 期待好用"
+          }
+        ],
+        "haoping": "98%",
+        "jieshao": "索尼4800万超广角微距三摄，骁龙855旗舰处理器，前置光学指纹识别！",
+        "bannerone" :"乐卡分期，最高支持36期，每月仅138.63元",
+        "bannertwo" :"iPhone XS系列领券立减400元，低至7388元起",
+        "jieshaoimg" : [
+          "../../../static/img/5aff15b988ca57e59b218e84.jpg",
+          "../../../static/img/5aff15b988ca57e59b218e84.jpg",
+          "../../../static/img/5aff15b988ca57e59b218e84.jpg"
+        ]
+      }
+ 	],
+ 	"苹果" : [
+      {"banner" : "../../img/1.jpg"}
+ 	]
+}

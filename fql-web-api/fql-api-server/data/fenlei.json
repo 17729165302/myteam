@@ -1,0 +1,127 @@
+{
+  	"fenlei" : [
+	    {
+	      	"id" : "01",
+	      	"lei" : "推荐",
+	      	"banner" : "../../../static/img/sect_ban1.jpg",
+	      	"shuma" : [
+	      		{
+		      		"name" : "数码畅销榜",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "苹果"},
+				        {"img" : "../../../static/img/xiaomi.png","p" : "小米"},
+				        {"img" : "../../../static/img/vivo.png","p" : "vivo"},
+				        {"img" : "../../../static/img/oppo.png","p" : "OPPO"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "三星"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "荣耀"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "华为"}
+			    	]
+		      	},
+		      	{
+		      		"name" : "更多品牌",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "耐克"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "阿迪达斯"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "New Balance"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "万斯"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "lilbetter"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "天梭"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "丹尼尔惠灵顿"}
+			    	]
+		      	},
+		      	{
+		      		"name" : "便民生活",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "手机充值"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "话费预存"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "黄金提货卡"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "游戏充值"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "娱乐会员充值"}
+			    	]
+		      	}
+		    ]	    
+	    },
+	    {
+	      	"id" : "02",
+	      	"lei" : "手机",
+	      	"banner" : "../../../static/img/sect_ban2.jpg",
+	      	"shuma" : [
+	      		{
+		      		"name" : "数码畅销榜",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "苹果"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "小米"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "vivo"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "OPPO"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "三星"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "荣耀"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "华为"}
+			    	]
+		      	},
+		      	{
+		      		"name" : "更多品牌",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "耐克"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "阿迪达斯"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "New Balance"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "万斯"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "lilbetter"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "天梭"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "丹尼尔惠灵顿"}
+			    	]
+		      	},
+		      	{
+		      		"name" : "便民生活",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "手机充值"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "话费预存"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "黄金提货卡"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "游戏充值"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "娱乐会员充值"}
+			    	]
+		      	}
+		    ]	    
+	    },
+	    {
+	      	"id" : "03",
+	      	"lei" : "推荐",
+	      	"banner" : "../../../static/img/sect_ban1.jpg",
+	      	"shuma" : [
+	      		{
+		      		"name" : "数码畅销榜",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "苹果"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "小米"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "vivo"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "OPPO"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "三星"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "荣耀"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "华为"}
+			    	]
+		      	},
+		      	{
+		      		"name" : "更多品牌",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "耐克"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "阿迪达斯"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "New Balance"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "万斯"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "lilbetter"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "天梭"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "丹尼尔惠灵顿"}
+			    	]
+		      	},
+		      	{
+		      		"name" : "便民生活",
+			     	"pinpai" : [
+			     		{"img" : "../../../static/img/f_pg.png","p" : "手机充值"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "话费预存"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "黄金提货卡"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "游戏充值"},
+				        {"img" : "../../../static/img/f_pg.png","p" : "娱乐会员充值"}
+			    	]
+		      	}
+		    ]	    
+	    }
+	]
+}
